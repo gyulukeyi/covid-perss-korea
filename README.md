@@ -1,4 +1,4 @@
-# covid-perss-korea
+# covid-press-korea
 
 *This repository include data and scripts used for the following paper to appear in 30(3) of The Sociolinguistic Journal of Korea.*
 
