@@ -1,7 +1,8 @@
 # covid-perss-korea
 
 *This repository include data and scripts used for the following paper to appear in 30(3) of The Sociolinguistic Journal of Korea.*
-Lee, Gyu-min & Song, Sanghoun. (To Appear). The Korean Coronavirus Corpus: A Large-Scale Analysis Using Computational Skills. *The Sociolinguistic Journal of Korea, 30* (3).
+
+> Lee, Gyu-min & Song, Sanghoun. (To Appear). The Korean Coronavirus Corpus: A Large-Scale Analysis Using Computational Skills. *The Sociolinguistic Journal of Korea, 30* (3).
 
 
 **Assess the impact of the Korean media presses on COVID-related indexes.**
