@@ -14,7 +14,7 @@ We cannot share the corpus itself. Here, instead, we have made the following pub
 - the corpus statistics
   - press distibution 
   - frequency and sentiment scores for the five keywords for covid, mask, (social) distancing, vaccine, and getting confirmed for the disease.
-= the scripts for our research
+- the scripts for our research
   - date-based merger for the corpus files and statistics
   - NLTK-based concordance generator 
   - Sentiment analyzer based on the [KOSAC sentiment dictionary](http://word.snu.ac.kr/kosac/lexicon.php) (acutal dictionary not included -- go to the project's website for yours)
