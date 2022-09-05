@@ -11,6 +11,7 @@ We construct a corpus comprised of COVID-related Korean articles, following BYU 
 
 We cannot share the corpus itself. Here, instead, we have made the following public for your reference:
 
+- health stats
 - the corpus statistics
   - press distibution 
   - frequency and sentiment scores for the five keywords for covid, mask, (social) distancing, vaccine, and getting confirmed for the disease.
@@ -20,3 +21,5 @@ We cannot share the corpus itself. Here, instead, we have made the following pub
   - Sentiment analyzer based on the [KOSAC sentiment dictionary](http://word.snu.ac.kr/kosac/lexicon.php) (acutal dictionary not included -- go to the project's website for yours)
   - HuggingFace and PyTorch-based RoBERTa fine-tuner and sentiment classifier 
   - R script for the calculation of the Transfer Entropy usign RTransferEntropy
+
+For the details, refer to our paper (it's in English!). 
